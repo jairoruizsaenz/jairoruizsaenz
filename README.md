@@ -2,8 +2,7 @@
 
 ###
 
-My name is Jairo, I'm an Engineer from Colombia.
-I'm into data visualization, Machinne Learning, Web Development, Bikes and Pizza 🍕
+My name is Jairo, I'm an Engineer from Colombia. I'm into data visualization, ML, Web Development, Bikes and Pizza 🍕
 
 - 🔭 I’m currently working on a Django project
 - 📚 I’m currently learning about Data Science, Web development and Cloud computing
