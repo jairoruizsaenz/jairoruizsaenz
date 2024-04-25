@@ -5,7 +5,7 @@
 My name is Jairo, I'm an Engineer from Colombia. I'm into data visualization, ML, Web Development, Bikes and Pizza 🍕
 
 - 🔭 I’m currently working on a Django project
-- 📚 I’m currently learning about Data Science, Web development and Cloud computing
+- 📚 I’m currently learning about Frontend, CSS framworks and Cloud computing
 - ⚡ In my free time I like to ride my bike 🚲
 - 📫 How to reach me? visit my website https://jairo.digital/
 <!--
